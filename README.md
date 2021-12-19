@@ -2,7 +2,7 @@
 - 👀 I’m interested in 音乐；运动；reading etc
 - 🌱 I’m currently learning 怎样学习ppt
 - 💞️ I’m looking to collaborate on 学习 工作 Bible
-- 📫 How to reach me ... 微信同名哦。
+- 📫 How to reach me ...  
 
 <!---
 pbpb98/pbpb98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
